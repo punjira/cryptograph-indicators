@@ -1,0 +1,4 @@
+TA-Lib
+redis
+asyncio-nats-streaming
+numpy
