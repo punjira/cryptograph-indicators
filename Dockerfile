@@ -33,4 +33,6 @@ COPY . .
 
 ENTRYPOINT [ "python" ]
 
-CMD [ "src/indicator.py" ]
+EXPOSE 5000
+
+CMD [ "src/server.py" ]
